@@ -1,5 +1,5 @@
 /**
- * @name OLEditor
+ * @name FITditor
  * @version 0.12
  * @description Desktop-like UI for the OpenLayers 3+ web mapping library.
  * @author Gergő Gelencsér (http://github.com/programmerg)
