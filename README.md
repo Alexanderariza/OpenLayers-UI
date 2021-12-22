@@ -4,7 +4,7 @@ _Desktop-like UI for the OpenLayers 3+ web mapping library._
 
 Try the [online demo](http://programmerg.github.io/ol3editor)!
 
-Beta V1.01 FIT(https://alexanderariza.github.io/OpenLayers-UI/)!
+Beta V1.01 [FIT - Fichtner Information Portal](https://alexanderariza.github.io/OpenLayers-UI/)!
 
 ## License
 This project is licensed under the 2-Clause BSD. This means you can use and modify it for free in private or commercial projects so long as you include the BSD [copyright notice](LICENSE) in it.
