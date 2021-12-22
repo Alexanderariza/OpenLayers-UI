@@ -1,6 +1,6 @@
 # [![OLEditor](res/logo.png "OLEditor")](http://github.com/programmerg/ol3editor)
 _Desktop-like UI for the OpenLayers 3+ web mapping library._
- It is a custom OpenLayers UI devoloved on OLOEditor of [Gelencsér Gergő](https://github.com/programmerg).
+ It is a custom OpenLayers UI devoloved on OLOEditor of [Gelencsér Gergő](http://github.com/programmerg/ol3editor).
 
 Try the [online demo](http://programmerg.github.io/ol3editor)!
 
